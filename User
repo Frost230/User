@@ -1,69 +1,13 @@
-local DONOS = {
-    ["silvaa_lenda"] = true,
-    ["resselskills"] = true,
-    [""] = true,
-}
-
-local SUB_DONOS = {
-    [""] = true,
-    [""] = true,
-}
-
-local DIVULGADORES = {
-    [""] = true,
-}
-
-local MODS = {
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""]= true, 
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
-   [""] = true,
+return {
+    DONOS = {
+        ["silvaa_lenda"] = true,
+        ["resselskills"] = true,
+        ["olliver2045judoca"] = true,
+    },
+    SUB_DONOS = {
+    },
+    DIVULGADORES = {
+    },
+    MODS = {
+    },
 }
